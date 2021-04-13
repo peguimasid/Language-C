@@ -11,8 +11,8 @@ int main() {
 
   while (number < 10) {
     number++;
-    if (number == 5) continue;
-    printf("%d\n", number);
+    if (number == 5) continue;  // se o numero for 5 ele ignora aquele passagem
+    printf("%d\n", number);     // Vai printar tudo de 0 a 10 menos o 5
   };
 
   return 0;
