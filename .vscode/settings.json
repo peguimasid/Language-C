@@ -4,6 +4,7 @@
     ".stylelintrc": "json",
     ".prettierrc": "json",
     "*.tsx": "typescriptreact",
-    "__locale": "c"
+    "__locale": "c",
+    "math.h": "c"
   }
 }
